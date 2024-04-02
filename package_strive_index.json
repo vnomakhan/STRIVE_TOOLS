@@ -12,11 +12,11 @@
 		{
 		    "category": "Strive",
 		    "name": "Strive Embedded Boards",
-		    "url": "https://github.com/vnomakhan/STRIVE_TOOLS/raw/main/Strive_1_ArduinoV1.0.zip",
-		    "checksum": "SHA-256:c43e93817301a2e226ad59f60e2751c9fdbf0c314e17f6ef0ccd930b11700178",
+		    "url": "https://github.com/vnomakhan/STRIVE_TOOLS/raw/main/Strive_1_V1_0.tar.bz2",
+		    "checksum": "SHA-256:e5a754071385705be60f92b1c6969d122b0b8e9b794f624c7bc6152e48db823c",
 		    "version": "1.0.0",
 		    "architecture": "riscv",
-		    "archiveFileName": "Strive_1_ArduinoV1.0.zip",
+		    "archiveFileName": "Strive_1_V1_0.tar.bz2",
 		    "boards": [
 			{"name": "Strive-1 FPGA"},
 			{"name": "Genysys FPGA"}  
@@ -33,7 +33,7 @@
 			    "name": "openocd"
 			}
 		    ],
-		    "size": "4985806"
+		    "size": "4983132"
 		}
 	    ],
 	    "tools": [
