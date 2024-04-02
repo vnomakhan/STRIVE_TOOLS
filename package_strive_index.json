@@ -12,11 +12,11 @@
 		{
 		    "category": "Strive",
 		    "name": "Strive Embedded Boards",
-		    "url": "https://codeload.github.com/vnomakhan/STRIVE_ARDUINO/zip/refs/heads/main",
-		    "checksum": "SHA-256:3b0aedce7a94e12374188405807abc42306a432bc888538000c9643df5067d57",
+		    "url": "https://github.com/vnomakhan/STRIVE_TOOLS/raw/main/Strive_1_ArduinoV1.0.zip",
+		    "checksum": "SHA-256:c43e93817301a2e226ad59f60e2751c9fdbf0c314e17f6ef0ccd930b11700178",
 		    "version": "1.0.0",
 		    "architecture": "riscv",
-		    "archiveFileName": "STRIVE_ARDUINO-main.zip ",
+		    "archiveFileName": "Strive_1_ArduinoV1.0.zip",
 		    "boards": [
 			{"name": "Strive-1 FPGA"},
 			{"name": "Genysys FPGA"}  
@@ -33,7 +33,7 @@
 			    "name": "openocd"
 			}
 		    ],
-		    "size": "5049617"
+		    "size": "4985806"
 		}
 	    ],
 	    "tools": [
@@ -42,18 +42,18 @@
 		    "name": "riscv32-unknown-elf-gcc",
 		    "systems": [
 			{
-			    "url": "https://codeload.github.com/vnomakhan/riscv32-unknown-elf-linux/zip/refs/heads/main",
-			    "checksum": "SHA-256:c989b8eb334d46a5b7d00f4e174907e3a8e91258e8fbac98b6b8ab93dbf3094a",
+			    "url": "https://github.com/vnomakhan/STRIVE_TOOLS/raw/main/riscv32-unknown-elf-gcc-linux64.tar.bz2",
+			    "checksum": "SHA-256:44eef4d17cacd331c7bb285281971b64f244b009164c79d73e8c851ce2d6c415",
 			    "host": "x86_64-pc-linux-gnu",
-			    "archiveFileName": "riscv32-unknown-elf-linux-main.zip",
-			    "size": "537715376"
+			    "archiveFileName": "riscv32-unknown-elf-gcc-linux64.tar.bz2",
+			    "size": "441928552"
 			},
 			{
 				"host":"x86_64-mingw32",
-				"url":"https://codeload.github.com/vnomakhan/RISCV_TOOLCHAIN_V1/zip/refs/heads/main",
-				"archiveFileName":"RISCV_TOOLCHAIN_V1-main.zip",
-				"checksum":"SHA-256:b30fc28893702f3e35ffdeca9f2a732fe46a1a1208c907a9eeaac6a4041a00c4",
-				"size":"237386339"
+				"url":"https://github.com/vnomakhan/STRIVE_TOOLS/raw/main/riscv64-unknown-elf-gcc-windows.zip",
+				"archiveFileName":"riscv64-unknown-elf-gcc-windows.zip",
+				"checksum":"SHA-256:e51ce538d02d6c2960baaf01fb9e9fe4b5e7d29b2ee8908cc01ef555e89c895e",
+				"size":"232124465"
 			  }
 		    ]
 		},
@@ -62,18 +62,18 @@
 		    "name": "openocd",
 		    "systems": [
 			{
-			    "url": "https://codeload.github.com/vnomakhan/openocd-linux64-riscv/zip/refs/heads/main",
-			    "checksum": "SHA-256:d524e9774e8b8779bb2441695d77e1cb0aba0b04a6f311416cde7a9ab683b7aa",
+			    "url": "https://github.com/vnomakhan/STRIVE_TOOLS/raw/main/openocd-linux64.tar.bz2",
+			    "checksum": "SHA-256:83f2f93e3be29ac570d09d829e07a4c19ccaad5703d9b3635c398edcca6dd123",
 			    "host": "x86_64-pc-linux-gnu",
-			    "archiveFileName": "openocd-linux64-riscv-main.zip",
+			    "archiveFileName": "openocd-linux64.tar.bz2",
 			    "size": "1279811"
 			},
 			{
 				"host":"x86_64-mingw32",
-				"url":"https://github.com/vnomakhan/STRIVE_OPENOCD/archive/refs/heads/main.zip",
-				"archiveFileName":"STRIVE_OPENOCD-main.zip",
-				"checksum":"SHA-256:2aeb1e86201f3953a4d6ff5bfbe24e68292474a6a31a83e0cca225fcaa088e06",
-				"size":"3596843"
+				"url":"https://github.com/vnomakhan/STRIVE_TOOLS/raw/main/openocd-windows.zip",
+				"archiveFileName":"openocd-windows.zip",
+				"checksum":"SHA-256:e9096eb20a2ea5b04e6d3b6d7b417b7370a583225866bee585a8a053dbcedb80",
+				"size":"3541688"
 			  }
 		    ]
 		}

@@ -2,3 +2,30 @@ sha256sum <filename> // for signing file
 du -b <filename> // for getting size
 
 
+https://github.com/vnomakhan/STRIVE_TOOLS/raw/main/Strive_1_ArduinoV1.0.zip
+SHA-256:c43e93817301a2e226ad59f60e2751c9fdbf0c314e17f6ef0ccd930b11700178
+archiveFileName: Strive_1_ArduinoV1.0.zip
+size: 4985806
+
+https://github.com/vnomakhan/STRIVE_TOOLS/raw/main/riscv32-unknown-elf-gcc-linux64.tar.bz2
+SHA-256:44eef4d17cacd331c7bb285281971b64f244b009164c79d73e8c851ce2d6c415
+archiveFileName:riscv32-unknown-elf-gcc-linux64.tar.bz2
+size: 441928552
+
+
+https://github.com/vnomakhan/STRIVE_TOOLS/raw/main/riscv64-unknown-elf-gcc-windows.zip
+SHA-256:e51ce538d02d6c2960baaf01fb9e9fe4b5e7d29b2ee8908cc01ef555e89c895e
+archiveFileName:riscv64-unknown-elf-gcc-windows.zip
+size: 232124465
+
+https://github.com/vnomakhan/STRIVE_TOOLS/raw/main/openocd-linux64.tar.bz2
+SHA-256:83f2f93e3be29ac570d09d829e07a4c19ccaad5703d9b3635c398edcca6dd123
+archiveFileName:openocd-linux64.tar.bz2
+size: 1284540
+
+https://github.com/vnomakhan/STRIVE_TOOLS/raw/main/openocd-windows.zip
+SHA-256:e9096eb20a2ea5b04e6d3b6d7b417b7370a583225866bee585a8a053dbcedb80
+archiveFileName:openocd-windows.zip
+size: 3541688
+
+
