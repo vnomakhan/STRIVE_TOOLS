@@ -1,0 +1,4 @@
+sha256sum <filename> // for signing file
+du -b <filename> // for getting size
+
+
