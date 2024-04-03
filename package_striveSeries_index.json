@@ -43,10 +43,10 @@
 		    "systems": [
 			{
 			    "url": "https://github.com/vnomakhan/STRIVE_TOOLS/raw/main/riscv32-unknown-elf-gcc-linux64.tar.bz2",
-			    "checksum": "SHA-256:44eef4d17cacd331c7bb285281971b64f244b009164c79d73e8c851ce2d6c415",
+			    "checksum": "SHA-256:e3625b5d614cc93abe52b4bcbb213be74e41452484e9fe260b34f54328800b9b",
 			    "host": "x86_64-pc-linux-gnu",
 			    "archiveFileName": "riscv32-unknown-elf-gcc-linux64.tar.bz2",
-			    "size": "441928552"
+			    "size": "442526245"
 			},
 			{
 				"host":"x86_64-mingw32",
