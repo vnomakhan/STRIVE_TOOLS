@@ -24,12 +24,12 @@
 		    "toolsDependencies": [
 			{
 			    "packager": "strive",
-			    "version": "e3e50c50f05c747c4a80faed706ded02b7e9b046",
+			    "version": "1.0.0",
 			    "name": "riscv32-unknown-elf-gcc"
 			},
 			{
 			    "packager": "strive",
-			    "version": "b474c22b33be7fa4969c0dfa9ccf172ce1bab5d0",
+			    "version": "1.0.0",
 			    "name": "openocd"
 			}
 		    ],
