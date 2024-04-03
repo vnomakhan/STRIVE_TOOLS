@@ -12,11 +12,11 @@
 		{
 		    "category": "Strive",
 		    "name": "Strive Embedded Boards",
-		    "url": "https://github.com/vnomakhan/STRIVE_TOOLS/raw/main/Strive_1_V1_0.tar.bz2",
-		    "checksum": "SHA-256:e5a754071385705be60f92b1c6969d122b0b8e9b794f624c7bc6152e48db823c",
+		    "url": "https://github.com/vnomakhan/STRIVE_TOOLS/raw/main/strive.tar.bz2",
+		    "checksum": "SHA-256:625b64e3d4dc958cae0cef0f5b621c37646c3ac408f564467e5db7b6c92e45dd",
 		    "version": "1.0.0",
 		    "architecture": "riscv",
-		    "archiveFileName": "Strive_1_V1_0.tar.bz2",
+		    "archiveFileName": "strive.tar.bz2",
 		    "boards": [
 			{"name": "Strive-1 FPGA"},
 			{"name": "Genysys FPGA"}  
@@ -33,7 +33,7 @@
 			    "name": "openocd"
 			}
 		    ],
-		    "size": "4983132"
+		    "size": "4983362"
 		}
 	    ],
 	    "tools": [
@@ -62,11 +62,11 @@
 		    "name": "openocd",
 		    "systems": [
 			{
-			    "url": "http://static.dev.sifive.com/bsp/arduino/openocd-b474c22b-x86_64-pc-linux-gnu.tar.bz2",
-			    "checksum": "SHA-256:35d29d102ea605eedb15a1f6ff83790711f5ed818f1b422d0a292eaed9800f0b",
+			    "url": "https://github.com/vnomakhan/STRIVE_TOOLS/raw/main/openocd-x86_64-pc-linux-gnu.tar.bz2",
+			    "checksum": "SHA-256:c6fe7e92e9a29158d89a9ccf1b0e46f7f5a1c247ff268c6177ad064ce45f93f3",
 			    "host": "x86_64-pc-linux-gnu",
-			    "archiveFileName": "openocd-e31dd22-x86_64-pc-linux-gnu.tar.bz2",
-			    "size": "1279811"
+			    "archiveFileName": "openocd-x86_64-pc-linux-gnu.tar.bz2",
+			    "size": "1276814"
 			},
 			{
 				"host":"x86_64-mingw32",
