@@ -5,3 +5,4 @@ openocd-linux64.tar.bz2 filter=lfs diff=lfs merge=lfs -text
 openocd-windows.zip filter=lfs diff=lfs merge=lfs -text
 riscv32-unknown-elf-gcc-linux64.tar.bz2 filter=lfs diff=lfs merge=lfs -text
 riscv32-unknown-elf-gcc-linux64-main.tar.bz2 filter=lfs diff=lfs merge=lfs -text
+openocd-x86_64-pc-linux-gnu-main.tar.bz2 filter=lfs diff=lfs merge=lfs -text
