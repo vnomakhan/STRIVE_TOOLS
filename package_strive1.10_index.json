@@ -38,7 +38,7 @@
 	    ],
 	    "tools": [
 		{
-		    "version": "e3e50c50f05c747c4a80faed706ded02b7e9b046",
+		    "version": "1.0.0",
 		    "name": "riscv32-unknown-elf-gcc",
 		    "systems": [
 			{
@@ -58,15 +58,15 @@
 		    ]
 		},
 		{
-		    "version": "b474c22b33be7fa4969c0dfa9ccf172ce1bab5d0",
+		    "version": "1.0.0",
 		    "name": "openocd",
 		    "systems": [
 			{
-			    "url": "https://github.com/vnomakhan/STRIVE_TOOLS/raw/main/openocd-x86_64-pc-linux-gnu-main.tar.bz2",
-			    "checksum": "SHA-256:d1d4d934b2d8e82ca0a6a2d50cde252708a4ce30271fed71d17bc3e8ab5c4497",
+			    "url": "https://github.com/vnomakhan/STRIVE_TOOLS/raw/main/openocd.tar.xz",
+			    "checksum": "SHA-256:c6364348285b7b72cc12782c182208dedd1a7d968bc2c27bb9f399d079fcd396",
 			    "host": "x86_64-pc-linux-gnu",
-			    "archiveFileName": "openocd-x86_64-pc-linux-gnu-main.tar.bz2",
-			    "size": "2372966"
+			    "archiveFileName": "openocd.tar.xz",
+			    "size": "1730328"
 			},
 			{
 				"host":"x86_64-mingw32",
