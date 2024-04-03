@@ -62,11 +62,11 @@
 		    "name": "openocd",
 		    "systems": [
 			{
-			    "url": "https://github.com/vnomakhan/STRIVE_TOOLS/raw/main/openocd_linux64.tar.bz2",
-			    "checksum": "SHA-256:fb4039f8daad295ab4684d55dacb5f6c2501b1658122b39a3bd7f6db5b473496",
+			    "url": "http://static.dev.sifive.com/bsp/arduino/openocd-b474c22b-x86_64-pc-linux-gnu.tar.bz2",
+			    "checksum": "SHA-256:35d29d102ea605eedb15a1f6ff83790711f5ed818f1b422d0a292eaed9800f0b",
 			    "host": "x86_64-pc-linux-gnu",
-			    "archiveFileName": "openocd_linux64.tar.bz2",
-			    "size": "2400572"
+			    "archiveFileName": "openocd-e31dd22-x86_64-pc-linux-gnu.tar.bz2",
+			    "size": "1279811"
 			},
 			{
 				"host":"x86_64-mingw32",
