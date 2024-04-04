@@ -62,11 +62,11 @@
 		    "name": "openocd",
 		    "systems": [
 			{
-			    "url": "https://github.com/vnomakhan/STRIVE_TOOLS/raw/main/openocd.tar.xz",
-			    "checksum": "SHA-256:c6364348285b7b72cc12782c182208dedd1a7d968bc2c27bb9f399d079fcd396",
+			    "url": "https://github.com/vnomakhan/STRIVE_TOOLS/raw/main/openocd_linux86_64.tar.bz2",
+			    "checksum": "SHA-256:f0a4c6da3ad9640324f03ada248c0f8c39d4d1e6d59e96b9ef5dac2b547cd6a6",
 			    "host": "x86_64-pc-linux-gnu",
-			    "archiveFileName": "openocd.tar.xz",
-			    "size": "1730328"
+			    "archiveFileName": "openocd_linux86_64.tar.bz2",
+			    "size": "2378119"
 			},
 			{
 				"host":"x86_64-mingw32",
