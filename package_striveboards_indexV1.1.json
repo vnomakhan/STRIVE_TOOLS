@@ -50,10 +50,10 @@
 			},
 			{
 				"host":"x86_64-mingw32",
-				"url":"http://dl.dropboxusercontent.com/scl/fi/nrwgv3x08jnx71um5mv3h/riscv64-unknown-elf-gcc-windows.zip?rlkey=5b62jp10w507awo2bj8d7cm23&dl=0",
-				"archiveFileName":"riscv64-unknown-elf-gcc-windows.zip",
-				"checksum":"SHA-256:e51ce538d02d6c2960baaf01fb9e9fe4b5e7d29b2ee8908cc01ef555e89c895e",
-				"size":"232124465"
+				"url":"http://dl.dropboxusercontent.com/scl/fi/jtvrx5a7vsl4zqq3fkbsp/riscv32-unknown-elf-gcc-windowsx86_64.zip?rlkey=p63hy13asamp3p56is24064el&dl=0",
+				"archiveFileName":"riscv32-unknown-elf-gcc-windowsx86_64.zip",
+				"checksum":"SHA-256:bef1c1c3be077331e38746e974fc5b20600f44757ee418adbb7fbee5a1e5bb50",
+				"size":"232604289"
 			  }
 		    ]
 		},
@@ -70,10 +70,10 @@
 			},
 			{
 				"host":"x86_64-mingw32",
-				"url":"https://github.com/vnomakhan/STRIVE_TOOLS/raw/main/openocd-windows.zip",
+				"url":"http://dl.dropboxusercontent.com/scl/fi/fp2pzprt9uk1eczsbygx0/openocd-windows.zip?rlkey=i536k4wrd7o1x6re4c78nqqsj&dl=0",
 				"archiveFileName":"openocd-windows.zip",
-				"checksum":"SHA-256:e9096eb20a2ea5b04e6d3b6d7b417b7370a583225866bee585a8a053dbcedb80",
-				"size":"3541688"
+				"checksum":"SHA-256:b888779dd1a74fe9d1b5e5fdd24ec1a38024f527215308414c54893d5d3d47b7",
+				"size":"3556136"
 			  }
 		    ]
 		}
