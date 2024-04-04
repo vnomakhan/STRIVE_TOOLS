@@ -42,7 +42,7 @@
 		    "name": "riscv32-unknown-elf-gcc",
 		    "systems": [
 			{
-			    "url": "https://github.com/vnomakhan/STRIVE_TOOLS/raw/main/riscv32-unknown-elf-gcc-linux64-main.tar.bz2",
+			    "url": "https://dl.dropboxusercontent.com/scl/fi/01wyw3zqr6eob7v29qhn7/riscv32-unknown-elf-gcc-linux64-main.tar.bz2?rlkey=brit85ku0iuezku1853ys6slh&dl=0",
 			    "checksum": "SHA-256:e3625b5d614cc93abe52b4bcbb213be74e41452484e9fe260b34f54328800b9b",
 			    "host": "x86_64-pc-linux-gnu",
 			    "archiveFileName": "riscv32-unknown-elf-gcc-linux64-main.tar.bz2",
@@ -50,7 +50,7 @@
 			},
 			{
 				"host":"x86_64-mingw32",
-				"url":"https://github.com/vnomakhan/STRIVE_TOOLS/raw/main/riscv64-unknown-elf-gcc-windows.zip",
+				"url":"http://dl.dropboxusercontent.com/scl/fi/nrwgv3x08jnx71um5mv3h/riscv64-unknown-elf-gcc-windows.zip?rlkey=5b62jp10w507awo2bj8d7cm23&dl=0",
 				"archiveFileName":"riscv64-unknown-elf-gcc-windows.zip",
 				"checksum":"SHA-256:e51ce538d02d6c2960baaf01fb9e9fe4b5e7d29b2ee8908cc01ef555e89c895e",
 				"size":"232124465"
